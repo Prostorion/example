@@ -1,2 +1,4 @@
 bla bla
 my song
+new line 
+new line
